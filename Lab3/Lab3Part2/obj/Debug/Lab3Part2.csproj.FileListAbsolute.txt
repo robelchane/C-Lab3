@@ -1,0 +1,7 @@
+C:\CPRG211D\Lab3Part2\obj\Debug\Lab3Part2.csproj.AssemblyReference.cache
+C:\CPRG211D\Lab3Part2\obj\Debug\Lab3Part2.csproj.CoreCompileInputs.cache
+C:\CPRG211D\Lab3Part2\bin\Debug\Lab3Part2.exe.config
+C:\CPRG211D\Lab3Part2\bin\Debug\Lab3Part2.exe
+C:\CPRG211D\Lab3Part2\bin\Debug\Lab3Part2.pdb
+C:\CPRG211D\Lab3Part2\obj\Debug\Lab3Part2.exe
+C:\CPRG211D\Lab3Part2\obj\Debug\Lab3Part2.pdb
